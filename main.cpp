@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 //detyra e pare
+//kemi funksionet e mbledhjes,zbritjes,shumezimit
+
 double shuma(double a,double b){
     return a+b;
 }
